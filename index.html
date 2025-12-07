@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ฝึก12 Tenses</title>
+    <link rel="stylesheet" href="style.css">
+    <script type="text/javascript" async
+        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+    </script>
+</head>
+<body>
+
+    <header>
+        <h1 style="color:gray;">ฝึก Tenses ทั้ง 12</h1>
+    </header>
+
+    <main>
+        <section id="question-area" style="background-color: #322d2d; padding: 20px; border-radius: 8px; margin-bottom: 20px; box-shadow: 0 0 10px rgba(0, 100, 200, 0.1);">
+            <div id="quiz-content">
+                <p style="color:gray;"><strong>โจทย์:</strong> Tense ด้านล่างนี้คืออะไร</p>
+                <div id="question-text" style="font-size: 1.4em; font-weight: bold; margin: 15px 0; color: #e9f5ff;">
+                    </div>
+            </div>
+            
+            <button id="check-answer-btn" class="quiz-btn" style="background-color: #d3a20fb2;">
+                ตรวจคำตอบ
+            </button>
+            <button id="next-question-btn" class="quiz-btn" style="background-color: #28a745; color: white; display: none;">
+                คำถามถัดไป
+            </button> 
+            <p id="feedback-message" style="margin-top: 10px; font-weight: bold; min-height: 20px;"></p>
+        </section>
+        
+        <hr>
+
+        <section id="selection-area" class="button-group-container">
+            <div id="time-selection" class="button-group">
+                <h3 style="color:gray;">Time / เวลา</h3>
+                <button class="time-btn" data-value="Present">Present</button>
+                <button class="time-btn" data-value="Past">Past</button>
+                <button class="time-btn" data-value="Future">Future</button>
+            </div>
+
+            <div id="form-selection" class="button-group" color="white">
+                <h3 style="color:gray;">Form / รูปแบบ</h3>
+                <button class="form-btn" data-value="Simple">Simple</button>
+                <button class="form-btn" data-value="Continuous">Continuous</button>
+                <button class="form-btn" data-value="Perfect">Perfect</button>
+                <button class="form-btn" data-value="Perfect Continuous">Perfect Continuous</button>
+            </div>
+        </section>
+
+        <hr style="color:black;">
+
+        <section id="result-display">
+            <h2 style="color:gray;">ผลลัพธ์:</h2>
+            <div id="tense-result">
+                <span id="time-part">???</span>
+                <span id="form-part">???</span>
+                <span id="tense-suffix">Tense</span>
+            </div>
+            <p id="full-tense-name" style="font-size: 1.5em; color:gray; font-weight: bold; margin-top: 10px;" ></p>
+        </section>
+        
+        <section id="details-display">
+            <h3>B. ความหมาย / การใช้งาน</h3>
+            <p id="tense-meaning">กรุณาเลือก Time และ Form เพื่อดูรายละเอียด หรือลองทำแบบฝึกหัด</p>
+            
+            <h3>C. โครงสร้าง / สูตร</h3>
+            <p id="tense-structure">กรุณาเลือก Time และ Form เพื่อดูรายละเอียด หรือลองทำแบบฝึกหัด</p>
+        </section>
+
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>

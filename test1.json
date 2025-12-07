@@ -1,0 +1,302 @@
+[
+    {
+        "id": 1,
+        "question": "She has been waiting for the bus for two hours.",
+        "correctTime": "Present",
+        "correctForm": "Perfect Continuous"
+    },
+    {
+        "id": 2,
+        "question": "The sun rises in the east every day.",
+        "correctTime": "Present",
+        "correctForm": "Simple"
+    },
+    {
+        "id": 3,
+        "question": "I am flying to Paris tomorrow morning.",
+        "correctTime": "Present",
+        "correctForm": "Continuous"
+    },
+    {
+        "id": 4,
+        "question": "They have never visited London.",
+        "correctTime": "Present",
+        "correctForm": "Perfect"
+    },
+    {
+        "id": 5,
+        "question": "He finished his homework an hour ago.",
+        "correctTime": "Past",
+        "correctForm": "Simple"
+    },
+    {
+        "id": 6,
+        "question": "We were watching a movie when the phone rang.",
+        "correctTime": "Past",
+        "correctForm": "Continuous"
+    },
+    {
+        "id": 7,
+        "question": "She had already left before I arrived.",
+        "correctTime": "Past",
+        "correctForm": "Perfect"
+    },
+    {
+        "id": 8,
+        "question": "They had been working on the car all day.",
+        "correctTime": "Past",
+        "correctForm": "Perfect Continuous"
+    },
+    {
+        "id": 9,
+        "question": "I will call you later.",
+        "correctTime": "Future",
+        "correctForm": "Simple"
+    },
+    {
+        "id": 10,
+        "question": "At 10 PM tonight, she will be studying.",
+        "correctTime": "Future",
+        "correctForm": "Continuous"
+    },
+    {
+        "id": 11,
+        "question": "By next month, he will have completed his degree.",
+        "correctTime": "Future",
+        "correctForm": "Perfect"
+    },
+    {
+        "id": 12,
+        "question": "By 2025, they will have been living here for 10 years.",
+        "correctTime": "Future",
+        "correctForm": "Perfect Continuous"
+    },
+    {
+        "id": 13,
+        "question": "Water boils at 100 degrees Celsius.",
+        "correctTime": "Present",
+        "correctForm": "Simple"
+    },
+    {
+        "id": 14,
+        "question": "Look! The dog is chasing a cat.",
+        "correctTime": "Present",
+        "correctForm": "Continuous"
+    },
+    {
+        "id": 15,
+        "question": "We have just eaten dinner.",
+        "correctTime": "Present",
+        "correctForm": "Perfect"
+    },
+    {
+        "id": 16,
+        "question": "How long have you been learning English?",
+        "correctTime": "Present",
+        "correctForm": "Perfect Continuous"
+    },
+    {
+        "id": 17,
+        "question": "She did not go to the party last night.",
+        "correctTime": "Past",
+        "correctForm": "Simple"
+    },
+    {
+        "id": 18,
+        "question": "It was raining heavily when I woke up.",
+        "correctTime": "Past",
+        "correctForm": "Continuous"
+    },
+    {
+        "id": 19,
+        "question": "I realized I had forgotten my keys.",
+        "correctTime": "Past",
+        "correctForm": "Perfect"
+    },
+    {
+        "id": 20,
+        "question": "The road was wet because it had been snowing.",
+        "correctTime": "Past",
+        "correctForm": "Perfect Continuous"
+    },
+    {
+        "id": 21,
+        "question": "I think it will snow tomorrow.",
+        "correctTime": "Future",
+        "correctForm": "Simple"
+    },
+    {
+        "id": 22,
+        "question": "This time next week, I will be lying on the beach.",
+        "correctTime": "Future",
+        "correctForm": "Continuous"
+    },
+    {
+        "id": 23,
+        "question": "Will you have finished the report by the deadline?",
+        "correctTime": "Future",
+        "correctForm": "Perfect"
+    },
+    {
+        "id": 24,
+        "question": "They will have been travelling for a week when they reach Japan.",
+        "correctTime": "Future",
+        "correctForm": "Perfect Continuous"
+    },
+    {
+        "id": 25,
+        "question": "He usually walks to work.",
+        "correctTime": "Present",
+        "correctForm": "Simple"
+    },
+    {
+        "id": 26,
+        "question": "The kids are playing outside right now.",
+        "correctTime": "Present",
+        "correctForm": "Continuous"
+    },
+    {
+        "id": 27,
+        "question": "She has worked here since 2010.",
+        "correctTime": "Present",
+        "correctForm": "Perfect"
+    },
+    {
+        "id": 28,
+        "question": "We have been talking about this problem all morning.",
+        "correctTime": "Present",
+        "correctForm": "Perfect Continuous"
+    },
+    {
+        "id": 29,
+        "question": "Did you see the new movie yesterday?",
+        "correctTime": "Past",
+        "correctForm": "Simple"
+    },
+    {
+        "id": 30,
+        "question": "While I was cooking, my sister was doing laundry.",
+        "correctTime": "Past",
+        "correctForm": "Continuous"
+    },
+    {
+        "id": 31,
+        "question": "He had studied French before he moved to Paris.",
+        "correctTime": "Past",
+        "correctForm": "Perfect"
+    },
+    {
+        "id": 32,
+        "question": "They were tired because they had been hiking.",
+        "correctTime": "Past",
+        "correctForm": "Perfect Continuous"
+    },
+    {
+        "id": 33,
+        "question": "I promise I will help you with the boxes.",
+        "correctTime": "Future",
+        "correctForm": "Simple"
+    },
+    {
+        "id": 34,
+        "question": "He will be giving a speech at the conference tomorrow.",
+        "correctTime": "Future",
+        "correctForm": "Continuous"
+    },
+    {
+        "id": 35,
+        "question": "By the end of the year, I will have saved enough money.",
+        "correctTime": "Future",
+        "correctForm": "Perfect"
+    },
+    {
+        "id": 36,
+        "question": "When you get here, I will have been waiting for an hour.",
+        "correctTime": "Future",
+        "correctForm": "Perfect Continuous"
+    },
+    {
+        "id": 37,
+        "question": "The train leaves at 7 AM.",
+        "correctTime": "Present",
+        "correctForm": "Simple"
+    },
+    {
+        "id": 38,
+        "question": "Are you feeling better now?",
+        "correctTime": "Present",
+        "correctForm": "Continuous"
+    },
+    {
+        "id": 39,
+        "question": "We have travelled to five different continents.",
+        "correctTime": "Present",
+        "correctForm": "Perfect"
+    },
+    {
+        "id": 40,
+        "question": "It has been raining non-stop since midnight.",
+        "correctTime": "Present",
+        "correctForm": "Perfect Continuous"
+    },
+    {
+        "id": 41,
+        "question": "They ate pizza for dinner last night.",
+        "correctTime": "Past",
+        "correctForm": "Simple"
+    },
+    {
+        "id": 42,
+        "question": "I was sleeping soundly at midnight.",
+        "correctTime": "Past",
+        "correctForm": "Continuous"
+    },
+    {
+        "id": 43,
+        "question": "She said she had spoken to the manager.",
+        "correctTime": "Past",
+        "correctForm": "Perfect"
+    },
+    {
+        "id": 44,
+        "question": "The engine broke because the driver had been neglecting maintenance.",
+        "correctTime": "Past",
+        "correctForm": "Perfect Continuous"
+    },
+    {
+        "id": 45,
+        "question": "I'm sure he will succeed.",
+        "correctTime": "Future",
+        "correctForm": "Simple"
+    },
+    {
+        "id": 46,
+        "question": "They will be celebrating their anniversary next week.",
+        "correctTime": "Future",
+        "correctForm": "Continuous"
+    },
+    {
+        "id": 47,
+        "question": "When we meet, I will have known her for ten years.",
+        "correctTime": "Future",
+        "correctForm": "Perfect"
+    },
+    {
+        "id": 48,
+        "question": "How long will you have been driving by the time you reach LA?",
+        "correctTime": "Future",
+        "correctForm": "Perfect Continuous"
+    },
+    {
+        "id": 49,
+        "question": "She drinks coffee every morning.",
+        "correctTime": "Present",
+        "correctForm": "Simple"
+    },
+    {
+        "id": 50,
+        "question": "They are building a new shopping mall nearby.",
+        "correctTime": "Present",
+        "correctForm": "Continuous"
+    }
+]
